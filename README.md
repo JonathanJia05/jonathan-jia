@@ -41,6 +41,7 @@ Established Arsenal Robotics, a VEX Robotics Competition team ran out of my fami
 - Notable accolades:
   - 2023 New York State Champions
   - #1 ranked team in New York State
+  - 18 total awards
 
 - Socials:
   - [Instagram](https://www.instagram.com/55645x/)
