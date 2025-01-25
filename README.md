@@ -13,7 +13,9 @@ I'm an aspiring engineer and software developer with a strong foundation in robo
 ### **ppCalculator**  
 An iOS application using rosu-pp-py and the Osu! API v2 to help Osu! players accurately calculate performance point (pp) scores on maps for their personal goals.
 
-Python, Swift  
+[GitHub repo](https://github.com/JonathanJia05/ppCalculator)
+
+*Python, Swift*
 
 ---
 
@@ -21,7 +23,9 @@ Python, Swift
 ### **ScribeAI (1st place overall at HackGT X)**  
 A HIPAA-compliant, decentralized healthcare management platform that uses AI to transform physical healthcare documents into electronic health records.
 
-Java, Spring, PostgreSQL, Docker, Kubernetes, TypeScript, Next.js, Tailwind, Tesseract, OpenAI
+[GitHub repo](https://github.com/JonathanJia05/scribeai)
+
+*Java, Spring, PostgreSQL, Docker, Kubernetes, TypeScript, Next.js, Tailwind, Tesseract, OpenAI*
 
 ---
 
@@ -31,4 +35,8 @@ Established Arsenal Robotics, a VEX Robotics Competition team ran out of my fami
 
 - Notable accolades:
   - 2023 New York State Champions
-  - #1 ranked team in New York State  
+  - #1 ranked team in New York State
+
+- Socials:
+  - [Instagram](https://www.instagram.com/55645x/)
+  - [YouTube](https://www.youtube.com/@ARSENAL_55645X)
