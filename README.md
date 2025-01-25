@@ -31,7 +31,7 @@ A HIPAA-compliant, decentralized healthcare management platform that uses AI to 
 
 #### **Aug 2017 - May 2023**  
 ### **Arsenal Robotics**  
-Established Arsenal Robotics, a VEX Robotics Competition team ran out of my family's basement. Guided team to 4x World Championship competitor and 6x World Championship Qualification. Outperformed multiple well-funded organizations despite operating with 10-30x less funding.
+Established Arsenal Robotics, a VEX Robotics Competition team ran out of my family's basement. Guided team to 4x World Championship competitor and 6x World Championship Qualification. Outperformed multiple well-funded organizations despite operating with 10-30x less funding. Built a strong national presence through social media campaigns, generating over 16,000 views and establishing the team as a prominent name at national signature events.
 
 - Notable accolades:
   - 2023 New York State Champions
