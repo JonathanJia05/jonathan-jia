@@ -1,11 +1,6 @@
 # Jonathan Jia - Portfolio
 
-Welcome to my portfolio! This site showcases the projects and achievements that I’ve worked on over the years, highlighting my passion for robotics, software development, and problem-solving.
-
----
-
-## 🚀 About Me
-I'm an aspiring engineer and software developer with a strong foundation in robotics and software design. 
+Welcome to my portfolio! This site showcases the projects and achievements that I’ve worked on over the years, highlighting my passion for robotics, software development, and problem solving.
 
 ---
 
@@ -16,6 +11,16 @@ An iOS application using rosu-pp-py and the Osu! API v2 to help Osu! players acc
 [GitHub repo](https://github.com/JonathanJia05/ppCalculator)
 
 *Python, Swift*
+
+---
+
+#### **October 2024 - Present**  
+### **Robot-sumo**  
+A framework using OpenAI Gymnasium and Pygame with TensorFlow, designed to test and develop robot control strategies for Japanese Robot Sumo matches. Meant to leverage reinforcement learning, enabling the robot to dynamically adapt its strategies in response to opponent movements, rather than relying on hardcoded behaviors.
+
+[GitHub repo](https://github.com/JonathanJia05/Robot-sumo)
+
+*Python, OpenAI Gymandium, Pygame, TensorFlow*
 
 ---
 
@@ -31,7 +36,7 @@ A HIPAA-compliant, decentralized healthcare management platform that uses AI to 
 
 #### **Aug 2017 - May 2023**  
 ### **Arsenal Robotics**  
-Established Arsenal Robotics, a VEX Robotics Competition team ran out of my family's basement. Guided team to 4x World Championship competitor and 6x World Championship Qualification. Outperformed multiple well-funded organizations despite operating with 10-30x less funding. Built a strong national presence through social media campaigns, generating over 16,000 views and establishing the team as a prominent name at national signature events.
+Established Arsenal Robotics, a VEX Robotics Competition team ran out of my family's basement. Guided team to 4x World Championship competitor and 6x World Championship Qualification. Outperformed multiple well-funded organizations despite operating with 10-30x less funding. Built a strong national presence through social media, generating over 16,000 views and establishing the team as a prominent name at national signature events.
 
 - Notable accolades:
   - 2023 New York State Champions
