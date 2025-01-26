@@ -24,7 +24,7 @@ A framework using OpenAI Gymnasium and Pygame with TensorFlow, designed to test 
 
 *Python, OpenAI Gymnasium, Pygame, TensorFlow*
 
-![Robosumo](/assets/robosumo.jpg)
+![Robosumo](/assets/robosumo.png)
 
 
 ---
@@ -54,7 +54,7 @@ Founded Arsenal Robotics, a VEX Robotics Competition team ran out of my family's
   - [Instagram](https://www.instagram.com/55645x/)
   - [YouTube](https://www.youtube.com/@ARSENAL_55645X)
 
-![VexRobotics](/assets/vex.jpeg)
+![VexRobotics](/assets/vex.png)
 
 ---
 
