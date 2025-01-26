@@ -32,6 +32,8 @@ A HIPAA-compliant, decentralized healthcare management platform that uses AI to 
 
 *Java, Spring, PostgreSQL, Docker, Kubernetes, TypeScript, Next.js, Tailwind, Tesseract, OpenAI*
 
+![ScribeAI](/assets/scribeai.png)
+
 ---
 
 #### **Aug 2017 - May 2023**  
