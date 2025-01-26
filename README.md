@@ -61,5 +61,5 @@ Founded Arsenal Robotics, a VEX Robotics Competition team ran out of my family's
 ### **Future project ideas:**
 - **Photography blog. Shares the pictures I take when travelling + going to car events.** Allows me to further my web dev skills + share my hobbies.
 - **AI poker engine. Recognizes cards on table and the bets to output the most optimal move using GTO poker strategy.** Allows me to step into the AI realm more + create a potentially a game disrupting product.
-- **AI calorie tracker. Using object recognition with a digital scale reading, it will accurately calculate total calories to make weight loss/gain a less painful endeavor.** Allows me to work with AI more + create a product that I feel will be extremely useful and marketable towards the gym community.
+- **AI calorie tracker. Using object recognition alongside a digital scale reading, it will accurately calculate total calories to make weight loss/gain a less painful endeavor.** Allows me to work with AI more + create a product that I feel will be extremely useful and marketable towards the gym community.
 
