@@ -20,7 +20,7 @@ A framework using OpenAI Gymnasium and Pygame with TensorFlow, designed to test 
 
 [GitHub repo](https://github.com/JonathanJia05/Robot-sumo)
 
-*Python, OpenAI Gymandium, Pygame, TensorFlow*
+*Python, OpenAI Gymnasium, Pygame, TensorFlow*
 
 ---
 
