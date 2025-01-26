@@ -13,7 +13,7 @@ An iOS application using rosu-pp-py and the Osu! API v2 to help Osu! players acc
 *Python, Swift*
 
 ![ScribeAI](/assets/ppCalculator.jpg)
-<img src="/assets/ppCalculator.jpg" style="border-radius: 15px" />
+<kbd><img src="/assets/ppCalculator.jpg" /><kbd>
 
 ---
 
