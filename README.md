@@ -1,6 +1,6 @@
 # Jonathan Jia - Portfolio
 
-Welcome to my portfolio! This site showcases the projects and achievements that I’ve worked on over the years, highlighting my passion for robotics, software development, and problem solving.
+Welcome to my portfolio! This site showcases the projects and achievements that I’ve worked on over the years, highlighting my passion for robotics and software development.
 
 ---
 
