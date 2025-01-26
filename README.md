@@ -48,3 +48,6 @@ Established Arsenal Robotics, a VEX Robotics Competition team ran out of my fami
 - Socials:
   - [Instagram](https://www.instagram.com/55645x/)
   - [YouTube](https://www.youtube.com/@ARSENAL_55645X)
+
+![VexRobotics](/assets/vex.jpeg)
+
